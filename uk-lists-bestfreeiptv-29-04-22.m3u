@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,UK FHD  BBC Scotland
-http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/52849
+#EXTINF:-1,UK FHD test
+plugin://plugin.video.f4mTester/?url=http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/52851&amp;streamtype=TSDOWNLOADER&amp;name= 24 Horas
 #EXTINF:-1,UK FHD  BBC News
 http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/52850
 #EXTINF:-1,UK FHD  ITV1
