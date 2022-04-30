@@ -4,12 +4,7 @@
 <sortby>Name</sortby>
 <channels>
 
-<channel>
-<name>[COLOR purple][B]~[/B][/COLOR][COLOR orange][B]For supporting server costs[/B][/COLOR]:</name>
-<externallink>http://bit.ly/PPVX</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</channel>
+
 
 <channel>
 <name>[COLOR turquoise][B]https://paypal.me/[/B][/COLOR][COLOR lime][B]taylormulla[/B][/COLOR][COLOR purple][B]~[/B][/COLOR]</name>
@@ -34,13 +29,7 @@
 <info></info>
 </channel>
   
-<channel>
-<name>[COLOR pink][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR] [COLOR red][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR]</name>
-<externallink>http://mullafabz.xyz/HOST/LiveTV/sportsstreamz.xml</externallink>http://bit.ly/FOOTYSTRMZ1,http://bit.ly/FOOTYSTRMZ
-<thumbnail>http://mullafabz.xyz/HOST/Icons/live_football_logo.jpg</thumbnail>
-<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
-<info></info>
-</channel>
+
 
 <channel>
 <name>[COLOR pink][B]F[/B][/COLOR][COLOR white][B]ootball[/B][/COLOR] [COLOR red][B]L[/B][/COLOR][COLOR white][B]ive[/B][/COLOR].Backup</name>
