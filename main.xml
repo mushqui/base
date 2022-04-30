@@ -4,16 +4,11 @@
 <sortby>Name</sortby>
 <channels>
 
-<channel>
-<name>hello</name>
-<externallink>http://bit.ly/PPVX</externallink>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</channel>
+
 
 <channel>
 <name>hello 2</name>
-<externallink>http://bit.ly/PPVX</externallink>
+<externallink>https://raw.githubusercontent.com/mushqui/base/main/live.x</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </channel>
