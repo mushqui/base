@@ -15,12 +15,9 @@
 -->
 
 <item>
-<plugin>
-<name>[COLOR blue]Bt Sports 3[/COLOR]</name>
+<title>[COLOR blue]Bt Sports 3[/COLOR]</title>
 <link>http://31.220.0.134:8081/live/jtvb3/playlist.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; en-US; ONEPLUS A5000 Build/ONEPLUS A5000_24_180103) MXPlayer/1.8.16</link>
 <thumbnail></thumbnail>
 <fanart>https://i.imgur.com/Rm8JsRG.jpg</fanart>
-<summary></summary>
-</plugin>
 </item>
 
