@@ -17,18 +17,15 @@
 
 
 <item>
-<title>;ive</title>
-<link>
-sublink:LISTSOURCE:chrome-extension://emnphkkblegpebimobpbekeedfgemhof/player.html#https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8 ::LISTNAME:[COLOR blue][B]chrome RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8 ::LISTNAME:[COLOR blue][B]not chrome RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:https://s4r2b2y7.stackpathcdn.com/live/2/playlist.m3u8 ::LISTNAME:[COLOR blue][B]NBCGOLD RESOLUTION=1280x720p[/B][/COLOR]::#
+<title>ive</title>
+<link>https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8</link>
+<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
+<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
+</item>
 
-sublink:LISTSOURCE:http://dr4.anonymousvn.xyz/live/ss1122/playlist.m3u8 ::LISTNAME:[COLOR white][B]NBCSN RESOLUTION 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://dr4.anonymousvn.xyz/live/ss1122/chunks.m3u8 ::LISTNAME:[COLOR white][B]NBCSN RESOLUTION 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://dr4.anonymousvn.xyz/live/ss1122/playlist.m3u8 ::LISTNAME:[COLOR white][B]NBCSN RESOLUTION 1280x720p[/B][/COLOR]::#
-
-sublink:LISTSOURCE:plugin://program.plexus/?mode=1&amp;url=acestream://&amp;name=[COLOR white][B][/B][/COLOR] ::LISTNAME:[COLOR gold][B]ACESTREAM [/B][/COLOR]::#
-</link>
+<item>
+<title>ive</title>
+<link>chrome-extension://emnphkkblegpebimobpbekeedfgemhof/player.html#https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8</link>
 <thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
 <fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
 </item>
