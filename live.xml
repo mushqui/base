@@ -16,7 +16,7 @@
 
 
 <item>
-<title>[COLOR lime][B]21:45[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B][/B][/COLOR] [COLOR orange][B]NBCSN.{576p}[/B][/COLOR]</title>
+<title>baz teat</title>
 <link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
 <regex>
 <name>get_sxstream</name>
@@ -31,9 +31,9 @@
 <item>
 <title>baz test</title>
 <link>
-sublink:LISTSOURCE:https://cdn.tumarcador.xyz/live/2/playlist.m3u8 ::LISTNAME:[COLOR blue][B]NBCGOLD RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:https://cdn.tumarcador.xyz/live/2/chunks.m3u8 ::LISTNAME:[COLOR blue][B]NBCGOLD RESOLUTION=1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:https://cdn.tumarcador.xyz/live/2/playlist.m3u8 ::LISTNAME:[COLOR blue][B]NBCGOLD RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://cdn.tumarcador.xyz/live/2/playlist.m3u8 ::LISTNAME:[COLOR blue][B]cock RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://cdn.tumarcador.xyz/live/2/chunks.m3u8 ::LISTNAME:[COLOR blue][B]cock RESOLUTION=1280x720p[/B][/COLOR]::#
+sublink:LISTSOURCE:https://cdn.tumarcador.xyz/live/2/playlist.m3u8 ::LISTNAME:[COLOR blue][B]cock RESOLUTION=1280x720p[/B][/COLOR]::#
 
 sublink:LISTSOURCE:http://1fs.azureedge.net/hls/live.m3u8 ::LISTNAME:[COLOR pink][B]NBCSN RESOLUTION 1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:http://1fs.azureedge.net/hls/live.m3u8 ::LISTNAME:[COLOR pink][B]NBCSN RESOLUTION 1280x720p[/B][/COLOR]::#
