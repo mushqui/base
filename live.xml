@@ -9,79 +9,11 @@
 <fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]REPORT DEAD ONES[/B][/COLOR] [COLOR lime][B]@mullafabz[/B][/COLOR][COLOR white][B] AND FIXED IN MINS[/B][/COLOR]</title>
-<link>.<link>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/MatchDayfanart.jpg</thumbnail>
-<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
-</item>
 
-<item>
-<title>[COLOR white][B]****[/B][/COLOR][COLOR lime][B]SATUR[/B][/COLOR][COLOR white][B]DAY[/B][/COLOR][COLOR white][B] [COLOR gold][B][B]UTC +2 TIME[/B][/COLOR][COLOR white][B]***[/B][/COLOR]</title>
-<link>.</link>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
-<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
-</item>
 
-<item>
-<title>   </title>
-<link>.</link>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/Match-Dayfanat.jpg</thumbnail>
-<fanart>http://mullafabz.xyz/HOST/Icons/matchdays.jpg</fanart>
-</item>
 
-<item>
-<title>[COLOR white][B]++=[/B][/COLOR][COLOR orange][B]UK[/B][/COLOR][COLOR white][B]++=[/B][/COLOR]</title>
-<link>.</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<!--
-<item>
-<title>[COLOR lime][B]21:45[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B][/B][/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://q3d2s7t6.stackpathcdn.com/live/3/playlist.m3u8 ::LISTNAME:[COLOR red][B]NBCSN 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://q3d2s7t6.stackpathcdn.com/live/3/chunks.m3u8 ::LISTNAME:[COLOR red][B]NBCSN 1280x720p[/B][/COLOR]::#
 
-sublink:LISTSOURCE:http://dr4.anonymousvn.xyz/live/ss3122/playlist.m3u8 ::LISTNAME:[COLOR red][B]SNWL 1280x720p[/B][/COLOR]::#
-sublink:LISTSOURCE:http://dr4.anonymousvn.xyz/live/ss3122/chunks.m3u8 ::LISTNAME:[COLOR red][B]SNWL 1280x720p[/B][/COLOR]::#
-</link>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
-<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
-</item>
 
-<item>
-<title>[COLOR lime][B]21:45[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B][/B][/COLOR] [COLOR orange][B].Multi1[/B][/COLOR]</title>
-<link></link>
-<thumbnail>https://i.imgur.com/ZqPjbbc.jpg</thumbnail>
-<fanart>https://i.imgur.com/EEG1XCz.gifv</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]21:45[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B][/B][/COLOR] [COLOR orange][B]NBCSN.{720p}[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
-<regex>
-<name>get_sxstream</name>
-<expres>href=.*[",'](.*/nbcsn-576p/playlist.*?)[",']</expres>
-<page>http://tvhistories.com/11thjune2018/003/nbcsn.php</page>
-<referer>http://tvhistories.com/11thjune2018/003/nbcsn.php</referer>
-</regex>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
-<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B]21:45[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B][/B][/COLOR] [COLOR orange][B]beIN.11.ENG.{576p}[/B][/COLOR]</title>
-<link>$doregex[get_sxstream]|User-Agent=freeapppsss</link>
-<regex>
-<name>get_sxstream</name>
-<expres>href=.*[",'](.*/beinsports11ar-576/playlist.*?)[",']</expres>
-<page>http://tvhistories.com/11thjune2018/003/bein11.php</page>
-<referer>http://tvhistories.com/11thjune2018/003/bein11.php</referer>
-</regex>
-<thumbnail>http://mullafabz.xyz/HOST/Icons/matchdaythumbz.jpg</thumbnail>
-<fanart>http://i.imgur.com/sqZDbty.jpg</fanart>
-</item>
 
 <item>
 <title>[COLOR lime][B]21:45[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B][/B][/COLOR] [COLOR orange][B]NBCSN.{576p}[/B][/COLOR]</title>
@@ -97,7 +29,7 @@ sublink:LISTSOURCE:http://dr4.anonymousvn.xyz/live/ss3122/chunks.m3u8 ::LISTNAME
 </item>
 <!--
 <item>
-<title>[COLOR lime][B]22:00[/B][/COLOR]-[COLOR blue][B]EPL[/B][/COLOR]:[COLOR white][B]Wolves vs Newcastle[/B][/COLOR]</title>
+<title>baz test</title>
 <link>
 sublink:LISTSOURCE:https://cdn.tumarcador.xyz/live/2/playlist.m3u8 ::LISTNAME:[COLOR blue][B]NBCGOLD RESOLUTION=1280x720p[/B][/COLOR]::#
 sublink:LISTSOURCE:https://cdn.tumarcador.xyz/live/2/chunks.m3u8 ::LISTNAME:[COLOR blue][B]NBCGOLD RESOLUTION=1280x720p[/B][/COLOR]::#
